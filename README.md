@@ -1,4 +1,4 @@
-![logo](https://github.com/sadrisso/sadrisso/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png)
+![logo](https://github.com/sadrisso/sadrisso/blob/main/Modern%20Minimal%20Technology%20Background%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm <br/> <span font-size="100px">Md Shoeb Akter Drisso</span> </h1>
 <h3 align="center">A passionate MERN Stack developer from Rangpur, Bangladesh</h3>
 <img 
