@@ -1,6 +1,7 @@
 ![logo](https://github.com/sadrisso/sadrisso/blob/main/Modern%20Minimal%20Technology%20Background%20Banner%20(1).png)
-<h1 align="center">Hi 👋, I'm <br/> <span font-size="100px">Md Shoeb Akter Drisso</span> </h1>
-<h3 align="center">A passionate MERN Stack developer from Rangpur, Bangladesh</h3>
+<h1 align="center" margin-bottom="10px"><span font-size="100px">"Md Shoeb Akter Drisso | Aspiring MERN Stack Developer"</h1>
+
+<p>A passionate MERN stack learner from Rangpur, Bangladesh, driven by curiosity about technology. I am constantly exploring to grow in the tech industry</p>
 <img 
   src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif"
   width="400"
@@ -11,7 +12,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadrisso&label=Profile%20views&color=0e75b6&style=flat" alt="sadrisso" /> </p>
 
-- 🌱 I’m currently learning **React JS, Node JS, Express JS, MongoDB**
+🌱 I’m currently learning
+- Express JS
+- MongoDB
 
 
 
