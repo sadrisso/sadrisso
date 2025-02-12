@@ -1,4 +1,4 @@
-![logo](https://github.com/sadrisso/sadrisso/blob/main/dark-banner-github.png)
+![logo](https://github.com/sadrisso/sadrisso/blob/main/darkBannarGithub.png)
 <h1 align="center" margin-bottom="10px"><span font-size="100px">"Md Shoeb Akter Drisso | Aspiring MERN Stack Developer"</h1>
 
   
