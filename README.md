@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left" border="2 solid green">
-  <a href="https://www.linkedin.com/in/shoeb-akter-drisso-9b0011241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shoeb akter drisso" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sadrisso/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shoeb akter drisso" height="30" width="40" /></a>
   <a href="https://www.facebook.com/shoebdrisso/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shoeb drisso" height="30" width="40" /></a>
   <a href="https://github.com/sadrisso" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" alt="shoeb drisso" height="35" width="40" /></a>
 </div>
