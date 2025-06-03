@@ -1,8 +1,8 @@
 ![logo](https://github.com/sadrisso/sadrisso/blob/main/darkBannarGithub.png)
-<h1 align="center" margin-bottom="10px"><span font-size="100px">"Md Shoeb Akter Drisso | Aspiring MERN Stack Developer"</h1>
+<h1 align="center" margin-bottom="10px"><span font-size="100px">"Md Shoeb Akter Drisso | Front End Developer"</h1>
 
   
-<p>A passionate MERN stack learner from Rangpur, Bangladesh, driven by curiosity about technology. I am constantly exploring to grow in the tech industry</p>
+<p>A passionate Front End Developer from Rangpur, Bangladesh, driven by curiosity about technology. I am constantly exploring to grow in the tech industry</p>
 <img 
   src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"
   width="400"
@@ -14,8 +14,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadrisso&label=Profile%20views&color=0e75b6&style=flat" alt="sadrisso" /> </p>
 
 🌱 I’m currently learning <br>
-- Express JS
-- MongoDB
+- Next.js
+- Redux
+- TypeScript
 
 
 
