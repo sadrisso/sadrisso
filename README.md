@@ -1,8 +1,8 @@
 ![logo](https://github.com/sadrisso/sadrisso/blob/main/darkBannarGithub.png)
-<h1 align="center" margin-bottom="10px"><span font-size="100px">"Md Shoeb Akter Drisso | Front End Developer"</h1>
+<h1 align="center" margin-bottom="10px"><span font-size="100px">"Shoeb Akter Drisso | Software Developer"</h1>
 
   
-<p>A passionate Front End Developer from Rangpur, Bangladesh, driven by curiosity about technology. I am constantly exploring to grow in the tech industry</p>
+<p>A passionate Software Developer from Rangpur, Bangladesh, driven by curiosity about technology. I am constantly exploring ways to grow in the tech industry</p>
 <img 
   src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"
   width="400"
